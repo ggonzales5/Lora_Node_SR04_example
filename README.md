@@ -14,3 +14,12 @@ the following directory:
 
 This will create the needed toolchain for teh raspberry pi 3 in
 the created xtensa-esp32-elf/ directory.
+
+Note that the following library:
+
+https://github.com/olikraus/u8g2
+
+is required to implement the on screen display
+elements of this program. This library can also
+be installed via the "manage libraries" tab in
+the arduino ide.
