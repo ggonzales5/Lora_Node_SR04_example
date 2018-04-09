@@ -12,7 +12,7 @@ the following directory:
 
 ~/Arduino/hardware/espressif/esp32/tools
 
-This will create the needed toolchain for teh raspberry pi 3 in
+This will create the needed toolchain for the raspberry pi 3 in
 the created xtensa-esp32-elf/ directory.
 
 Note that the following library:
