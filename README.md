@@ -2,7 +2,7 @@
 SR04 Ultrasonic Sensor comtrol node on Lora WiFI 32
 
 For compilation, flashing for the ESP32 follow
-isntallation instructions for your operating
+installation instructions for your operating
 system at: 
 
 https://github.com/espressif/arduino-esp32#installation-instructionshttps://github.com/olikraus/u8g2https://robotzero.one/heltec-wifi-kit-32/
